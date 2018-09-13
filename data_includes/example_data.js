@@ -134,7 +134,7 @@ PennController.FeedItems( PennController.GetTable( "datasource-however.csv" ).fi
         newCanvas("stimbox", 730, 120)
             .settings.add(25,25,
                 newText("context",
-                    "IImagine that you're at a party, and you overhear part of a conversation between two of your friends:")
+                    "Imagine that you're at a party, and you overhear part of a conversation between two of your friends:")
                     .settings.size(700, 30)
             )    
             .settings.add(25,70,
